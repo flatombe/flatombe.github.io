@@ -1,0 +1,3 @@
+name: Florent Latombe's home page
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
